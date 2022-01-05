@@ -1,0 +1,1 @@
+screen -S GDPS-Manager python3 GDPS-Manager.py
